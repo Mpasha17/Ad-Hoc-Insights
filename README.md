@@ -1,20 +1,3 @@
-
-- Data Analysis
-   - Microsoft Excel
-   - Microsoft Power BI Desktop
-   - Data Modeling
-   - MySQL Workbench
-   - SQL (CTE, Join, Sub Query, Window Function, Explain Analyze)
-
-- Project Documentation
-   - Git & Github
-   - VS Code Editor
-
-- Video Recording & Presentation
-   - OBS Studio
-   - Microsoft Clipchamp - Video Editor
-   - Microsoft Power Point
-
 ## Problem Statement:
 Atliq’s management noticed they lack the insights needed for quick decision-making. To fix this, they plan to hire junior data analysts who are skilled in both technology and communication.
 
